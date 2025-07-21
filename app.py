@@ -87,4 +87,8 @@ def uploadimage():
         
     
 if __name__ == "__main__":
+<<<<<<< HEAD
     app.run(debug=True, host='0.0.0.0')
+=======
+    app.run(debug=True, host='0.0.0.0')
+>>>>>>> a041529390165dc089ef1b93291e0b03b8ef748f
